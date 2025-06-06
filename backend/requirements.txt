@@ -137,11 +137,11 @@ soupsieve==2.7
 SQLAlchemy==2.0.21
 stack-data==0.6.3
 sympy==1.13.1
-tensorboard==2.15.1  # Updated to match TensorFlow 2.15
+tensorboard==2.16.1  # Updated to match TensorFlow 2.15
 tensorboard-data-server==0.7.2
-tensorflow==2.15.0  # ✅ Compatible with Python 3.12
+tensorflow==2.16.1  # ✅ Compatible with Python 3.12
 # tensorflow-intel==2.17.0  # ❌ Removed due to incompatibility
-tf_keras==2.15.0
+tf_keras==2.16.1
 termcolor==2.4.0
 terminaltables==3.1.10
 thop==0.1.1.post2209072238
